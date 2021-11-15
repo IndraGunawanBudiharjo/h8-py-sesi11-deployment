@@ -1,1 +1,1 @@
-"web: gunicorn app:connex_app --preload"
+"web: gunicorn app:connex_app"
